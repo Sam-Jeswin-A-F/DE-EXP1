@@ -27,7 +27,6 @@ The function is implemented using Verilog HDL.
 
 ### 1. Verilog Design File
     //gedit fun.v
-'
 
     module fun (
     input wire A, 
